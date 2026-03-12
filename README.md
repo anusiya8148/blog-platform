@@ -62,6 +62,7 @@ blog-platform
 Clone the repository
 
 ``
+https://github.com/anusiya8148/blog-platform.git
 ```
 
 Go to the project folder
